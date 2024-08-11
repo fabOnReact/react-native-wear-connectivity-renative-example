@@ -40,7 +40,7 @@ Add the dependency `react-native-wear-connectivity` to your [renative.json](http
 ```
 
 - Pair the Android emulator with the Wear OS emulator ([instructions][21]).
-- Implement the [example](#example-of-implementation) in `src/app/index.tsx`.
+- Implement the [example](#example-of-implementation) in [src/app/index.tsx](https://github.com/fabOnReact/react-native-wear-connectivity-renative-example/blob/main/src/app/index.tsx).
 
 For more info refer to the github repository
 [react-native-wear-connectivity](https://github.com/fabOnReact/react-native-wear-connectivity),
