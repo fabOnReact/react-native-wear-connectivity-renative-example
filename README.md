@@ -1,5 +1,7 @@
 This is an example on how to install [react-native-wear-connectivity](https://github.com/fabOnReact/react-native-wear-connectivity) with renative.
 
+https://github.com/user-attachments/assets/952c9592-7571-4dce-b5d2-98ef4beea2bb
+
 ## Installing react-native-wear-connectivity with renative
 
 Create a new renative app for android and wearos:
