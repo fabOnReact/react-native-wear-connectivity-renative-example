@@ -43,4 +43,7 @@ Add the dependency `react-native-wear-connectivity` to your `renative.json`:
 - Implement the [example](#example-of-implementation) in `src/app/index.tsx`.
 
 I published an [example](https://github.com/fabOnReact/react-native-wear-connectivity-renative-example) of an app implemented with renative.
-For more info refer to the github repository [react-native-wear-connectivity](https://github.com/fabOnReact/react-native-wear-connectivity), the official renative [documentation](https://next.renative.org) and the [renative github repository](https://github.com/flexn-io/renative).
+For more info refer to the github repository
+[react-native-wear-connectivity](https://github.com/fabOnReact/react-native-wear-connectivity),
+the official renative [documentation](https://next.renative.org) and the
+[renative github repository](https://github.com/flexn-io/renative).
