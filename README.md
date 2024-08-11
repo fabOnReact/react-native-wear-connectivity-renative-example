@@ -26,7 +26,7 @@ yarn rnv run -p android
 Run the app on the WearOS Emulator:
 
 ```sh
-yarn rnv run -p androidwear -d
+yarn rnv run -p androidwear
 ```
 
 Add the dependency `react-native-wear-connectivity` to your [renative.json](https://github.com/fabOnReact/react-native-wear-connectivity-renative-example/blob/main/renative.json):
