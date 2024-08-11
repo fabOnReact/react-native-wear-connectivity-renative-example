@@ -29,7 +29,7 @@ Run the app on the WearOS Emulator:
 yarn rnv run -p androidwear -d
 ```
 
-Add the dependency `react-native-wear-connectivity` to your `renative.json`:
+Add the dependency `react-native-wear-connectivity` to your [renative.json](https://github.com/fabOnReact/react-native-wear-connectivity-renative-example/blob/main/renative.json):
 
 ```json
 "plugins": {
